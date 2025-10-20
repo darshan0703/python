@@ -6,8 +6,8 @@ p2='O'
 def place(symbol):
  print(numpy.matrix(board))
  while(1):
-  r=int(input('enter the row'))
-  c=int(input('enter the col'))
+  r=int(input('enter the row number'))
+  c=int(input('enter the column number'))
   if r<4 and c<4 and board[r-1][c-1]=='-':
      break
   else:
@@ -70,3 +70,4 @@ def play():
   print('draw')  
 
 play()
+
