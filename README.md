@@ -39,8 +39,8 @@ Follow these steps to get started:
 
 Clone the repository
 
-git clone https://github.com/manish-9245/Facial-Emotion-Recognition-using-OpenCV-and-Deepface.git
-cd Facial-Emotion-Recognition-using-OpenCV-and-Deepface
+git clone https://github.com/darshan0703/Facial-Emotion-Recognition-using-cnn
+cd Facial-Emotion-Recognition-using-cnn
 
 
 Install dependencies
